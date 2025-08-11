@@ -35,15 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udit03&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udit03&theme=radical&hide_border=true" width="400"/>
-</p>
-
----
-
 ## 🌱 Let’s Connect!
 
 <p align="center">

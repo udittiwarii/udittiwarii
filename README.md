@@ -1,19 +1,21 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Udit+Tiwari+👋;MERN+Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Udit+Tiwari+👋;MERN+Stack+Developer+In+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">💻 Aspiring MERN Stack Developer | 🚀 Passionate Learner | 🧠 Problem Solver</h3>
+<h3 align="center" style="font-family:Poppins, sans-serif;">💻 Aspiring MERN Stack Developer | 🚀 Passionate Learner | 🧠 Problem Solver</h3>
 
 ---
 
 <!-- ABOUT -->
-<p align="center">
-✨ Turning ideas into interactive web experiences ✨  
+<p align="center" style="font-family:Poppins, sans-serif; font-size:16px;">
+✨ Turning ideas into interactive digital experiences  
 <br/>
-🧩 Building projects that mix creativity + logic  
+🧩 Combining creativity with problem-solving  
 <br/>
 💡 Exploring MERN Stack, DevOps, and Generative AI  
+<br/>
+🌐 Check out my Portfolio → <a href="https://udittiwari.vercel.app/" target="_blank"><b>udittiwari.vercel.app</b></a>
 </p>
 
 ---
@@ -32,21 +34,20 @@
 
 ## 🚀 Current Focus
 
-🧠 Mastering **React.js + Node.js** architecture  
-📦 Building **Full-Stack apps** with real-world logic  
-⚙️ Exploring **Docker + Kubernetes**  
-🧩 Practicing **Data Structures & Algorithms** daily  
+- 🧠 Mastering **React.js** and **Node.js** architecture  
+- ☁️ Exploring **DevOps (Docker, Kubernetes, CI/CD)**  
+- 🔍 Strengthening **Data Structures & Algorithms**  
+- 🤖 Learning **API Integrations & Generative AI**
 
 ---
 
-## 🧩 Featured Work
+## 🪐 Go To My Repositories
 
-| Project | Stack | Highlights |
-|----------|--------|------------|
-| 🎯 **To-Do App** | React, CSS | Simple UI + Hooks + CRUD logic |
-| 🍳 **Recipe Finder** | Node.js, MongoDB, API | API integration + Backend flow |
-| 🌐 **Portfolio Website** | React, Tailwind | Clean design + Animations |
-| 🤖 **AI Chat App (Ongoing)** | MERN + Socket.io | Real-time AI messaging system |
+<p align="center">
+  <a href="https://github.com/udit-tiwari03?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Explore%20My%20Repositories-00FFFF?style=for-the-badge&logo=github&logoColor=black&color=00FFFF" />
+  </a>
+</p>
 
 ---
 
@@ -54,13 +55,16 @@
 
 <p align="center">
   <a href="mailto:tiwariudit03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tiwariudit03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-tiwariudit03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/udit-tiwari-56998a271/">
     <img src="https://img.shields.io/badge/LinkedIn-Udit%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/udit-tiwari03">
     <img src="https://img.shields.io/badge/GitHub-udit--tiwari03-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://udittiwari.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&color=00FFFF" />
   </a>
 </p>
 
@@ -69,7 +73,7 @@
 ## ✨ Motion & Aesthetics
 
 <p align="center">
-  <img src="https://github-readme-animated-profile.vercel.app/api?theme=tokyonight&animation=wave&text=Building+Beautiful+UIs+with+Motion+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Beautiful+UIs+with+Motion+💫;Creating+Impact+Through+Code+💻" />
 </p>
 
 <p align="center">
@@ -87,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" />
 </p>

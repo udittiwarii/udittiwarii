@@ -1,10 +1,10 @@
 <!-- HEADER -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Udit+Tiwari+👋;MERN+Stack+Developer+In+Progress;Always+Learning+%7C+Always+Building" 
     alt="Typing Animation" 
   />
-</h1>
+</h1> -->
 
 <h3 align="center" style="font-family:Poppins, sans-serif;">
   💻 Aspiring MERN Stack Developer | 🚀 Passionate Learner | 🧠 Problem Solver
@@ -30,12 +30,12 @@
 
 ## ⚙️ Tech Universe
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,nodejs,express,mongodb,git,github,vscode,docker,kubernetes" 
     alt="Tech Stack"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img 

@@ -2,18 +2,18 @@
 <!--             UDIT TIWARI - README              -->
 <!-- ───────────────────────────────────────────── -->
 
-<h1 align="center">
-  <span style="font-size: 40px;">👋 Hi, I'm <b>Udit Tiwari</b></span>
-</h1>
+<h1 align="center">👋 Hi, I'm <b>Udit Tiwari</b></h1>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Loves+Building+Beautiful+Animations;Backend+%26+System+Architecture+Learner;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Frontend+Developer;Backend+Learner;Loves+Building+Animations" />
 </p>
 
+<!-- Streak Stats (Working Version) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=udit-tiwari&theme=react&hide_border=true" width="500" />
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -59,12 +59,13 @@ Hi! I'm **Udit**, a developer who enjoys creating
 
 ## 📊 GitHub Analytics  
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
+
+<!-- Working Stats (Alternative API) -->
+<img src="https://github-readme-stats-zeta-one-53.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-tiwari&layout=compact&theme=react&hide_border=true" width="400" />
+<img src="https://github-readme-stats-zeta-one-53.vercel.app/api/top-langs/?username=udit-tiwari&layout=compact&theme=react&hide_border=true" width="400" />
 
 </div>
 
@@ -88,7 +89,7 @@ Hi! I'm **Udit**, a developer who enjoys creating
   </a>
 
   <a href="https://leetcode.com/u/Udittiwari2025/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
 </div>

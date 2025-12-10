@@ -1,66 +1,65 @@
 <!-- ───────────────────────────────────────────── -->
-<!--             UDIT TIWARI - README              -->
+<!--                UDIT TIWARI - README           -->
 <!-- ───────────────────────────────────────────── -->
 
-<h1 align="center">👋 Hi, I'm <b>Udit Tiwari</b></h1>
+<div align="center">
+
+# 👋 Hi, I'm **Udit Tiwari**
 
 <!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Frontend+Developer;Backend+Learner;Loves+Building+Animations" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Learner;Loves+Building+Animations" />
 
-<!-- Streak Stats (Working Version) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=udit-tiwari&theme=react&hide_border=true" width="500" />
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=udit-tiwari&theme=react&hide_border=true" width="500" />
+
 </div>
 
 ---
 
-## 🚀 About Me
-
-Hi! I'm **Udit**, a developer who enjoys creating  
-**smooth animations, beautiful UI, scalable backend systems**, and **AI-powered apps**.
+## 🚀 **About Me**
+I’m **Udit**, a passionate developer who loves crafting  
+**beautiful UI**, **smooth animations**, and **scalable backend systems**.
 
 - 🔥 Building an **AI Smart Interview App**  
-- ⚙️ Learning **Backend & System Design**  
-- 🎨 UI Animations using **GSAP / Framer Motion / Tailwind**  
-- 🧊 Exploring **Three.js & 3D Web Experiences**
+- ⚙️ Learning **Backend + System Design**  
+- 🎨 Creating animations using **GSAP | Framer Motion | Tailwind**  
+- 🧊 Exploring **Three.js & 3D interactive web experiences**
 
 ---
 
-## ⚡ Tech Stack
-
-### 🧩 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+## 🛠️ **Tech Stack**
+### 🎨 **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" height="48" />
 </p>
 
-### 🛠 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+### ⚙️ **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" height="48" />
 </p>
 
-### 🧰 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
+### 🧰 **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" height="48" />
 </p>
 
 ---
 
-## 🌈 Focus Areas
-
+## 🌈 **Focus Areas**
 ✔ Premium UI/UX  
-✔ GSAP & Framer Motion animations  
-✔ MERN stack development  
-✔ Authentication & APIs  
-✔ Clean, scalable code architecture  
+✔ GSAP & Framer Motion  
+✔ MERN Development  
+✔ Authentication + APIs  
+✔ Clean, scalable architecture  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 **GitHub Analytics**
+
 <div align="center">
 
-<!-- Working Stats (Alternative API) -->
 <img src="https://github-readme-stats-zeta-one-53.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
 
 <br/><br/>
@@ -71,34 +70,35 @@ Hi! I'm **Udit**, a developer who enjoys creating
 
 ---
 
-## 🧠 Quote  
-> _“Clean code always wins, beautiful UI always converts.”_
+## 🧠 **Quote**
+> _“Clean code always wins. Beautiful UI always converts.”_
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 **Connect With Me**
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
 
-  <a href="https://www.linkedin.com/in/udit-tiwari-56998a271/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
+<a href="https://www.linkedin.com/in/udit-tiwari-56998a271/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
 
-  <a href="https://x.com/udevstack" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" />
-  </a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/Udittiwari2025/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<a href="https://x.com/udevstack" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="48" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Udittiwari2025/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="36" />
+</a>
 
 </div>
 
 ---
 
-<!-- Portfolio link placeholder (hidden)
-Portfolio: https://your-portfolio-link.com
-Jab portfolio ban jayega, main yahan update kar dunga.
--->
+<!-- Portfolio placeholder -->
+<!-- Portfolio will be added here once published -->
 
-<!-- END -->

@@ -2,7 +2,14 @@
 <!--             UDIT TIWARI - README              -->
 <!-- ───────────────────────────────────────────── -->
 
-<h1 align="center">🌟 Udit Tiwari — MERN Developer | UI/UX Enthusiast</h1>
+<h1 align="center">
+  <span style="font-size: 40px;">👋 Hi, I'm <b>Udit Tiwari</b></span>
+</h1>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Loves+Building+Beautiful+Animations;Backend+%26+System+Architecture+Learner;Always+Learning+New+Things" alt="Typing Animation" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udit-tiwari&theme=react&hide_border=true" width="500" />
@@ -12,13 +19,13 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Udit**, a passionate **MERN Stack Developer** who loves building  
+Hi! I'm **Udit**, a developer who enjoys creating  
 **smooth animations, beautiful UI, scalable backend systems**, and **AI-powered apps**.
 
-- 🔥 Working on an **AI Smart Interview App**
-- 💻 Deep-diving into **Backend & System Architecture**
-- 🎨 Creating beautiful UI using **GSAP / Framer Motion / Tailwind**
-- 🚀 Exploring **3D Experiences (Three.js)**
+- 🔥 Building an **AI Smart Interview App**  
+- ⚙️ Learning **Backend & System Design**  
+- 🎨 UI Animations using **GSAP / Framer Motion / Tailwind**  
+- 🧊 Exploring **Three.js & 3D Web Experiences**
 
 ---
 
@@ -41,41 +48,30 @@ Hi! I'm **Udit**, a passionate **MERN Stack Developer** who loves building
 
 ---
 
-## 🎞️ Cool Dev Animations
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/2f/2c/6a/2f2c6a1e29e3da8932e8def5a0e32721.gif" width="450" />
-  <br/><br/>
-  <img src="https://i.gifer.com/7VE.gif" width="450" />
-</div>
-
----
-
 ## 🌈 Focus Areas
 
 ✔ Premium UI/UX  
-✔ Smooth GSAP & Framer Motion animations  
+✔ GSAP & Framer Motion animations  
 ✔ MERN stack development  
 ✔ Authentication & APIs  
-✔ Clean, reusable components  
+✔ Clean, scalable code architecture  
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Analytics  
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
+<br/><br/>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-tiwari&layout=compact&theme=react&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-tiwari&layout=compact&theme=react&hide_border=true" width="400" />
 
 </div>
 
 ---
 
-## 🧠 Quote
+## 🧠 Quote  
 > _“Clean code always wins, beautiful UI always converts.”_
 
 ---

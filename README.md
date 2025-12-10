@@ -1,136 +1,108 @@
-<!-- HEADER -->
-<!-- <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Udit+Tiwari+👋;MERN+Stack+Developer+In+Progress;Always+Learning+%7C+Always+Building" 
-    alt="Typing Animation" 
-  />
-</h1> -->
+<!-- ───────────────────────────────────────────── -->
+<!--             UDIT TIWARI - README              -->
+<!-- ───────────────────────────────────────────── -->
 
-<h3 align="center" style="font-family:Poppins, sans-serif;">
-  💻 Aspiring MERN Stack Developer | 🚀 Passionate Learner | 🧠 Problem Solver
-</h3>
+<h1 align="center">🌟 Udit Tiwari — MERN Developer | UI/UX Enthusiast</h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udit-tiwari&theme=react&hide_border=true" width="500" />
+</div>
 
 ---
 
-<!-- ABOUT -->
-<p align="center" style="font-family:Poppins, sans-serif; font-size:16px;">
-  ✨ Turning ideas into interactive digital experiences ✨  
-  <br/>
-  🧩 Combining creativity with problem-solving  
-  <br/>
-  💡 Exploring MERN Stack, DevOps, and Generative AI  
-  <br/>
-  🌐 Check out my Portfolio → 
-  <a href="https://udittiwari.vercel.app/" target="_blank">
-    <b>udittiwari.vercel.app</b>
+## 🚀 About Me
+
+Hi! I'm **Udit**, a passionate **MERN Stack Developer** who loves building  
+**smooth animations, beautiful UI, scalable backend systems**, and **AI-powered apps**.
+
+- 🔥 Working on an **AI Smart Interview App**
+- 💻 Deep-diving into **Backend & System Architecture**
+- 🎨 Creating beautiful UI using **GSAP / Framer Motion / Tailwind**
+- 🚀 Exploring **3D Experiences (Three.js)**
+
+---
+
+## ⚡ Tech Stack
+
+### 🧩 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
+
+### 🛠 Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+</p>
+
+### 🧰 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
+</p>
+
+---
+
+## 🎞️ Cool Dev Animations
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2f/2c/6a/2f2c6a1e29e3da8932e8def5a0e32721.gif" width="450" />
+  <br/><br/>
+  <img src="https://i.gifer.com/7VE.gif" width="450" />
+</div>
+
+---
+
+## 🌈 Focus Areas
+
+✔ Premium UI/UX  
+✔ Smooth GSAP & Framer Motion animations  
+✔ MERN stack development  
+✔ Authentication & APIs  
+✔ Clean, reusable components  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=udit-tiwari&show_icons=true&theme=react&hide_border=true" width="500" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-tiwari&layout=compact&theme=react&hide_border=true" width="400" />
+
+</div>
+
+---
+
+## 🧠 Quote
+> _“Clean code always wins, beautiful UI always converts.”_
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/udit-tiwari-56998a271/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
-</p>
 
----
-
-## ⚙️ Tech Universe
-
-<!-- <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,nodejs,express,mongodb,git,github,vscode,docker,kubernetes" 
-    alt="Tech Stack"
-  />
-</p> -->
-
-<p align="center">
-  <img 
-    src="https://github-widgetbox.vercel.app/api/profile?username=udit-tiwari03&theme=tokyonight" 
-    alt="Profile Widget"
-  />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🧠 Mastering **React.js** and **Node.js** architecture  
-- ☁️ Exploring **DevOps (Docker, Kubernetes, CI/CD)**  
-- 🔍 Strengthening **Data Structures & Algorithms**  
-- 🤖 Learning **API Integrations & Generative AI**
-
----
-
-## 🪐 Go To My Repositories
-
-<p align="center">
-  <a href="https://github.com/udit-tiwari03?tab=repositories" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🔗%20Explore%20My%20Repositories-00FFFF?style=for-the-badge&logo=github&logoColor=black&color=00FFFF" 
-      alt="Repositories Badge"
-    />
+  <a href="https://x.com/udevstack" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" />
   </a>
-</p>
+
+  <a href="https://leetcode.com/u/Udittiwari2025/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
+  </a>
+
+</div>
 
 ---
 
-## 🌍 Connect With Me  
+<!-- Portfolio link placeholder (hidden)
+Portfolio: https://your-portfolio-link.com
+Jab portfolio ban jayega, main yahan update kar dunga.
+-->
 
-<p align="center">
-  <a href="mailto:tiwariudit03@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-tiwariudit03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/udit-tiwari-56998a271/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Udit%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/udit-tiwari03">
-    <img 
-      src="https://img.shields.io/badge/GitHub-udit--tiwari03-181717?style=for-the-badge&logo=github" 
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://udittiwari.vercel.app/">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-Visit-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&color=00FFFF" 
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
----
-
-## ✨ Motion & Aesthetics
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Beautiful+UIs+with+Motion+💫;Creating+Impact+Through+Code+💻" 
-    alt="UI Animation"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=udit-tiwari03&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 💭 Quote I Live By
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%22Strive+for+progress%2C+not+perfection.%22" 
-    alt="Quote Animation"
-  />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" 
-    alt="Footer Wave"
-  />
-</p>
+<!-- END -->

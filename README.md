@@ -33,6 +33,7 @@ const udit = {
     "Microservices Marketplace",
   ],
   learning: [
+    "DSA",
     "System Design",
     "Redis",
     "Docker",
@@ -153,7 +154,7 @@ Modern social blogging application with JWT authentication, ImageKit uploads, re
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/udit-tiwari" target="_blank">
+<a href="https://github.com/udittiwarii" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
